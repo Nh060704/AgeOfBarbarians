@@ -1,0 +1,14 @@
+# 数据文件（本地保留，不入库）
+*.csv
+data/
+
+# macOS 解压残留
+__MACOSX/
+.DS_Store
+
+# 可视化输出与笔记本（本次不上传）
+*.html
+复现1.ipynb
+
+# 错误后缀文件
+*.hyml
